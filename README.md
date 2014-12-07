@@ -8,4 +8,7 @@ We are using Ipython Notebooks for our analysis and visualisations:
   
   `http://localhost:8888/notebooks/`
 
+3. We took latitude and longitude data for countries with Ranking 1 to 15 in CO2 emissions (2009) from [Google Developer's site](https://developers.google.com/public-data/docs/canonical/countries_csv).
+)
+  
 
